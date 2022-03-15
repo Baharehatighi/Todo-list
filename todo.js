@@ -1,4 +1,4 @@
-// window.localStorage.setItem('todo-list', 'tasks');
+
 
 window.addEventListener('load', ()=> {
     const form = document.querySelector("#new-task-form");
